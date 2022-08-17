@@ -1,2 +1,3 @@
 # Comida-Vegana
-HTML5 ,CSS Y JAVASCRIPT
+
+Este es un ejemplo de un blog de Comida Vegana
